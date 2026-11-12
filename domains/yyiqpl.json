@@ -1,0 +1,6 @@
+{
+  "owner": { "username": "9365558fangh" },
+  "description": "个人服务器",
+  "records": { "CNAME": ["<tunnel-uuid>.cfargotunnel.com"] },
+  "proxied": true
+}
